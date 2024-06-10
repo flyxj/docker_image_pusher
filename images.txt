@@ -12,3 +12,5 @@ diygod/rsshub
 dperson/samba
 linuxserver/transmission
 dperson/samba
+stilleshan/frps:0.51.3
+stilleshan/frpc:0.51.3
