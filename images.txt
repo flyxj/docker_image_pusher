@@ -1,16 +1,1 @@
-neilpang/acme.sh
-stilleshan/frps
-stilleshan/frpc
-nginx:alpine
-portainer/portainer-ce
-seedgou/zerotier-moon
-messense/aliyundrive-webdav
-linuxserver/freshrss
-postgres:alpine
-linuxserver/resilio-sync
-diygod/rsshub
-dperson/samba
-linuxserver/transmission
-dperson/samba
-stilleshan/frps:0.51.3
-stilleshan/frpc:0.51.3
+portainer/portainer-ce:2.19.5
