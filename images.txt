@@ -1,1 +1,12 @@
-portainer/portainer-ce:2.19.5
+neilpang/acme.sh
+messense/aliyundrive-webdav
+linuxserver/freshrss
+stilleshan/frpc:0.51.3
+stilleshan/frps:0.51.3
+nginx:alpine
+portainer/portainer-ce
+linuxserver/resilio-sync
+diygod/rsshub
+dperson/samba
+linuxserver/transmission
+seedgou/zerotier-moon
