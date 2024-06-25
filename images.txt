@@ -3,6 +3,10 @@ messense/aliyundrive-webdav
 linuxserver/freshrss
 stilleshan/frpc:0.51.3
 stilleshan/frps:0.51.3
+stilleshan/frpc:0.58.1
+stilleshan/frps:0.58.1
+stilleshan/frpc
+stilleshan/frps
 nginx:alpine
 portainer/portainer-ce
 linuxserver/resilio-sync
