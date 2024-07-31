@@ -16,3 +16,4 @@ linuxserver/transmission
 seedgou/zerotier-moon
 phpmyadmin
 mysql:8.0
+php:7.3-apache
