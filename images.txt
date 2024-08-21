@@ -1,3 +1,4 @@
+gosecure/pyrdp
 neilpang/acme.sh
 messense/aliyundrive-webdav
 linuxserver/freshrss
