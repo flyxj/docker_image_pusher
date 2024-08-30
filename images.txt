@@ -1,7 +1,6 @@
+nocobase/nocobase
 twentycrm/twenty
-twentycrm/twenty:v0.23.2
 twentycrm/twenty-postgres
-twentycrm/twenty-postgres:v0.23.2
 gosecure/pyrdp
 neilpang/acme.sh
 messense/aliyundrive-webdav
