@@ -7,8 +7,8 @@ messense/aliyundrive-webdav
 linuxserver/freshrss
 stilleshan/frpc:0.51.3
 stilleshan/frps:0.51.3
-stilleshan/frpc:0.58.1
-stilleshan/frps:0.58.1
+stilleshan/frpc:0.61.1
+stilleshan/frps:0.61.1
 stilleshan/frpc
 stilleshan/frps
 nginx:alpine
