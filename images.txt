@@ -1,4 +1,4 @@
-lizhounet/wx-intimate
+zhayujie/chatgpt-on-wechat
 ionewu/owjdxb
 yangchuansheng/ip_derper
 yangchuansheng/derper
