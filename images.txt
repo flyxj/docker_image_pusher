@@ -16,6 +16,10 @@ stilleshan/frpc:0.51.3
 stilleshan/frps:0.51.3
 stilleshan/frpc:0.61.1
 stilleshan/frps:0.61.1
+stilleshan/frpc:0.61.2
+stilleshan/frps:0.61.2
+stilleshan/frpc:0.62.0
+stilleshan/frps:0.62.0
 stilleshan/frpc
 stilleshan/frps
 nginx:alpine
