@@ -1,3 +1,6 @@
+grafana/grafana:11.6.1
+telegraf:1.34.2
+influxdb:2.7.11
 ghcr.io/open-webui/open-webui:main
 ollama/ollama
 rockchin/langbot
