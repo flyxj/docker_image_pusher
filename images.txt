@@ -1,3 +1,4 @@
+snipe/snipe-it:v8.1.16
 grafana/grafana:11.6.1
 telegraf:1.34.2
 influxdb:2.7.11
