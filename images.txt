@@ -1,2 +1,12 @@
 nginx:alpine
 neilpang/acme.sh
+redis:alpine
+redis:7-alpine
+postgres:alpine
+postgres:16-alpine
+dujiaonext/api
+dujiaonext/api:v0.0.1-beta
+dujiaonext/user
+dujiaonext/user:v0.0.1-beta
+dujiaonext/admin
+dujiaonext/admin:v0.0.1-beta
