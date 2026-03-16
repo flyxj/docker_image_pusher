@@ -1,13 +1,11 @@
 neilpang/acme.sh
 stilleshan/frpc:0.61.2
 stilleshan/frps:0.61.2
+stilleshan/frps:0.67.0
+stilleshan/frpc:0.67.0
 nginx:alpine
 redis:alpine
 redis:7-alpine
 postgres:alpine
 postgres:16-alpine
 portainer/portainer-ce
-linuxserver/resilio-sync
-linuxserver/transmission
-linuxserver/freshrss
-diygod/rsshub
