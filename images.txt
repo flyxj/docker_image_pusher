@@ -9,3 +9,5 @@ redis:7-alpine
 postgres:alpine
 postgres:16-alpine
 portainer/portainer-ce
+dbeaver/cloudbeaver
+
